@@ -1,0 +1,2 @@
+# pypi_tangsheng
+如何将自己的包上传到PyPi并可通过pip安装
