@@ -1,0 +1,5 @@
+{
+    "ENV":"test",
+    "webrtcvad":{"vad":1},
+    "scripts":"main.py"
+}
